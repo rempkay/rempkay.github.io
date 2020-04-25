@@ -1,3 +1,3 @@
-# rempkay.github.io
+# rempee.github.io
 
-Check it out! Yeet! 
+Thank you for visitng my website.
