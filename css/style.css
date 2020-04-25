@@ -426,6 +426,9 @@ body.offcanvas {
   font-weight: 500;
   letter-spacing: 5px; }
 
+.floatRight{float:right;margin-left:20px}
+.floatRightClear{float:right;clear:right;margin-left:20px}
+
 .about-img {
   width: 100%;
   height: 600px;
